@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 4121991991
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d616fd87ea6106e1accae00180b6752
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleData/Texture/RoleBg/Story00_BgLow07.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_BgLow08.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_Bg04.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_BgLow01.jpg
+- Assets/AssetBundleData/Texture/RoleBg/RoleBg02.jpg
+- Assets/AssetBundleData/Texture/RoleBg/RoleBgLow03.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_Bg09.jpg
+- Assets/AssetBundleData/Texture/RoleBg/RoleBgLow00.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_Bg08.jpg
+- Assets/AssetBundleData/Texture/RoleBg/RoleBg03.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_BgLow10.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_BgLow05.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_BgLow06.jpg
+- Assets/AssetBundleData/Texture/RoleBg/RoleBg00.jpg
+- Assets/AssetBundleData/Texture/RoleBg/RoleBgLow01.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_Bg10.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_BgLow04.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_Bg01.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_Bg02.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_Bg07.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_BgLow09.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_Bg06.jpg
+- Assets/AssetBundleData/Texture/RoleBg/RoleBg01.jpg
+- Assets/AssetBundleData/Texture/RoleBg/RoleBgLow02.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_Bg03.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_BgLow02.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_BgLow03.jpg
+- Assets/AssetBundleData/Texture/RoleBg/Story00_Bg05.jpg
+Dependencies: []

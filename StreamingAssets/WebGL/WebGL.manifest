@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 1203860972
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: rolebg
+      Dependencies: {}
+    Info_1:
+      Name: singericon
+      Dependencies: {}
+    Info_2:
+      Name: titlebg
+      Dependencies: {}
+    Info_3:
+      Name: storypicture
+      Dependencies: {}
+    Info_4:
+      Name: previewsong
+      Dependencies: {}
+    Info_5:
+      Name: bgm
+      Dependencies: {}
+    Info_6:
+      Name: song0
+      Dependencies: {}
+    Info_7:
+      Name: song1
+      Dependencies: {}
+    Info_8:
+      Name: song2
+      Dependencies: {}
+    Info_9:
+      Name: song3
+      Dependencies: {}
+    Info_10:
+      Name: song5
+      Dependencies: {}
+    Info_11:
+      Name: song4
+      Dependencies: {}
+    Info_12:
+      Name: halfrole
+      Dependencies: {}
+    Info_13:
+      Name: storybgm
+      Dependencies: {}
+    Info_14:
+      Name: playericon0
+      Dependencies: {}

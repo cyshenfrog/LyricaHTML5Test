@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3989255451
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e28a1629bb9b763d202882ba7d050a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleData/BGM/Music_011.ogg
+- Assets/AssetBundleData/BGM/Music_013.ogg
+- Assets/AssetBundleData/BGM/Music_010.ogg
+- Assets/AssetBundleData/BGM/Music_012.ogg
+- Assets/AssetBundleData/BGM/Music_014.ogg
+Dependencies: []

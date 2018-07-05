@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 4040128520
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ceb910e114fe6f417eafcdec964c3527
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole20.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole109.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole10.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole106.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole02.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole108.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole09.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole13.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole01.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole103.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole18.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole107.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole111.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole08.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole11.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole104.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole14.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole19.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole16.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole101.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole12.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole00.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole17.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole03.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole15.png
+- Assets/AssetBundleData/Texture/HalfRole/HalfRole112.png
+Dependencies: []

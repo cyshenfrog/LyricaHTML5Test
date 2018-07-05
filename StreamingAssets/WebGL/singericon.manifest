@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2742462837
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84315976931969ba6833cfa832f8225d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleData/Texture/SingerIcon/SingerIcon003.png
+- Assets/AssetBundleData/Texture/SingerIcon/SingerIcon002.png
+- Assets/AssetBundleData/Texture/SingerIcon/SingerIcon005.png
+- Assets/AssetBundleData/Texture/SingerIcon/SingerIcon006.png
+- Assets/AssetBundleData/Texture/SingerIcon/SingerIcon000.png
+- Assets/AssetBundleData/Texture/SingerIcon/SingerIcon004.png
+- Assets/AssetBundleData/Texture/SingerIcon/SingerIconDef.png
+- Assets/AssetBundleData/Texture/SingerIcon/SingerIcon001.png
+Dependencies: []

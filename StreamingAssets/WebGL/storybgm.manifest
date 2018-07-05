@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4013482857
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36cfe294f2a82b3b88f3dafe050cd910
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleData/BGM/BGM_Story01.wav
+- Assets/AssetBundleData/BGM/BGM_Story03.wav
+- Assets/AssetBundleData/BGM/BGM_Story06.wav
+- Assets/AssetBundleData/BGM/BGM_Story02.wav
+- Assets/AssetBundleData/BGM/BGM_Story00.wav
+- Assets/AssetBundleData/BGM/BGM_Story04.wav
+- Assets/AssetBundleData/BGM/BGM_Story05.wav
+Dependencies: []

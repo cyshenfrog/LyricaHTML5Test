@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+CRC: 1946709456
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed62db20878084ab7411319cf53241f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon56.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon31.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon5.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon24.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon77.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon78.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon14.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon38.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon25.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon37.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon72.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon8.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon34.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon71.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon68.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon10.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon69.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon62.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon9.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon16.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon20.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon39.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon49.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon35.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon48.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon3.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon66.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon28.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon30.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon73.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon7.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon55.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon67.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon50.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon2.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon75.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon51.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon27.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon18.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon52.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon11.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon42.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon47.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon6.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon61.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon45.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon41.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon15.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon17.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon22.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon76.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon33.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon59.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon12.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon70.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon63.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon1.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon23.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon54.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon36.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon21.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon46.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon4.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon44.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon65.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon58.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon32.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon64.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon74.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon13.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon29.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon53.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon40.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon43.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon57.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon26.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon60.png
+- Assets/AssetBundleData/Texture/PlayerIcon/PlayerIcon19.png
+Dependencies: []
